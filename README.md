@@ -1,3 +1,6 @@
+### 已备份文章列表
+### https://github.com/CNNewsBackupProject/Backup/issues?q=is%3Aissue+is%3Aclosed
+
 ### 这是什么？
 
 这是一个使用issue为网路上的文章存档的github action，可以将文章转为issue进行持久保存。配置了此action的仓库，在新建issue的时候会触发抓取，文章内容会被跟评在新建的issue下方。
