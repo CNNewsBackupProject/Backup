@@ -1,5 +1,8 @@
-### 已备份文章列表
-### https://github.com/CNNewsBackupProject/Backup/issues?q=is%3Aissue+is%3Aclosed
+## 已备份文章列表
+## https://github.com/CNNewsBackupProject/Backup/issues?q=is%3Aissue+is%3Aclosed
+
+## 向我们提交备份
+## https://github.com/CNNewsBackupProject/Backup/issues/new
 
 ### 这是什么？
 
